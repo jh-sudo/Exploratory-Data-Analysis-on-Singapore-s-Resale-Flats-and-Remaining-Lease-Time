@@ -4,12 +4,6 @@ This project analyzes public housing data from Singapore with a focus on the rel
 
 ---
 
-## 🔗 Live Preview
-
-
-
----
-
 ## ✨ Features
 
 - Visual analysis of resale HDB flats across Singapore
